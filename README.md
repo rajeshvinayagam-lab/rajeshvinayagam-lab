@@ -60,6 +60,49 @@ I specialize in legacy application modernization, transforming mainframe and mon
 
 ---
 
+### Certifications
+
+**Cloud Platforms**
+
+![AWS Solutions Architect](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![AWS AI Practitioner](https://img.shields.io/badge/AWS-AI_Practitioner_Early_Adopter-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![GCP Professional Cloud Architect](https://img.shields.io/badge/GCP-Professional_Cloud_Architect-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Azure Fundamentals](https://img.shields.io/badge/Azure-Fundamentals-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+
+**Data & Databases**
+
+![MongoDB DBA](https://img.shields.io/badge/MongoDB-Certified_DBA_Associate-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![MongoDB Developer](https://img.shields.io/badge/MongoDB-Certified_Developer_Associate-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Databricks Spark](https://img.shields.io/badge/Databricks-Spark_3.0_Developer-EA2328?style=flat&logo=databricks&logoColor=white)
+![Databricks Lakehouse](https://img.shields.io/badge/Databricks-Lakehouse_Fundamentals-EA2328?style=flat&logo=databricks&logoColor=white)
+![Kafka Developer](https://img.shields.io/badge/Confluent-Kafka_Developer-231F20?style=flat&logo=apache-kafka&logoColor=white)
+
+**Graph & Infrastructure**
+
+![Neo4j](https://img.shields.io/badge/Neo4j-Graph_Data_Modeling-4581C3?style=flat&logo=neo4j&logoColor=white)
+![Apollo GraphQL](https://img.shields.io/badge/Apollo-Graph_Developer_Associate-311C87?style=flat&logo=apollo-graphql&logoColor=white)
+![Terraform](https://img.shields.io/badge/HashiCorp-Terraform_Associate-7B42BC?style=flat&logo=terraform&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-Fundamentals-FF694B?style=flat&logo=dbt&logoColor=white)
+
+**AI & GenAI**
+
+![Databricks GenAI](https://img.shields.io/badge/Databricks-Generative_AI_Fundamentals-EA2328?style=flat&logo=databricks&logoColor=white)
+
+---
+
+### Featured Blog Posts
+
+- [Claude Code: Your Terminal-Native AI Engineer](https://medium.com/@contact-rajeshvinayagam/claude-code-your-terminal-native-ai-engineer) - Deep dive into AI-powered development workflows
+- [Bridging Design and Code: Integrate Figma with Cursor Using MCP](https://medium.com/@contact-rajeshvinayagam/bridging-design-and-code-integrate-figma-with-cursor-using-mcp) - Design-to-code automation
+- [How I Let My AI Assistant Take Over Jira — With Just One Setup](https://medium.com/@contact-rajeshvinayagam/how-i-let-my-ai-assistant-take-over-jira) - AI productivity automation
+- [From General-Purpose to Domain-Specific: Fine-Tuning Large Language Models](https://medium.com/@contact-rajeshvinayagam/fine-tuning-large-language-models-for-specialized-applications) - LLM customization strategies
+- [Understanding Medical Codes in U.S. Healthcare (and Where AI Fits In)](https://medium.com/@contact-rajeshvinayagam/understanding-medical-codes-in-us-healthcare) - Healthcare AI applications
+
+[![Read more on Medium](https://img.shields.io/badge/Read_More-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@contact-rajeshvinayagam)
+
+---
+
 ### GitHub Activity
 
 <p>
