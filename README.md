@@ -105,8 +105,11 @@ I specialize in legacy application modernization, transforming mainframe and mon
 
 ### GitHub Activity
 
-![Rajesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajeshvinayagam-lab&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true)
+<a href="https://github.com/rajeshvinayagam-lab">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajeshvinayagam-lab&theme=default" />
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshvinayagam-lab&layout=compact&theme=default&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajeshvinayagam-lab&theme=default&hide_border=true)
+<a href="https://github.com/rajeshvinayagam-lab">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajeshvinayagam-lab&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rajeshvinayagam-lab&theme=default&utcOffset=-8" />
+</a>
