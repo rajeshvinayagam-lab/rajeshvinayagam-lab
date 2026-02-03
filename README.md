@@ -12,7 +12,7 @@ Building scalable systems at the intersection of cloud infrastructure, data plat
 
 ### About
 
-I specialize in designing and implementing enterprise-grade solutions across cloud platforms, with deep expertise in database technologies, infrastructure automation, and AI/ML systems.
+I specialize in legacy application modernization, transforming mainframe and monolithic systems into cloud-native architectures. Deep expertise in database migration, infrastructure automation, and AI-powered development tools.
 
 ### Tech Stack
 
