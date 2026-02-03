@@ -42,7 +42,7 @@ I specialize in legacy application modernization, transforming mainframe and mon
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
-**AI & ML**
+**AI**
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat&logo=github&logoColor=white)
