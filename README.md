@@ -16,7 +16,7 @@
 
 ### About Me
 
-I specialize in **legacy application modernization**, transforming mainframe and monolithic systems into cloud-native architectures. With deep expertise across database technologies, infrastructure automation, and AI-powered development tools, I help enterprises navigate their digital transformation journey.
+I specialize in **legacy application modernization**, transforming monolithic systems into cloud-native architectures. With deep expertise across database technologies, infrastructure automation, and AI-powered development tools, I help enterprises navigate their digital transformation journey.
 
 ---
 
