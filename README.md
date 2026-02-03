@@ -1,52 +1,49 @@
-### Hi there 👋
+# Rajesh Vinayagam
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=rajeshvinayagam-lab.rajeshvinayagam-lab)
+**Distinguished Engineer | Solutions Architect | AI Engineer**
 
-## Connect with me
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rajesh-vinayagam/)
-[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@contact-rajeshvinayagam)
+Building scalable systems at the intersection of cloud infrastructure, data platforms, and AI.
 
-<br>
-<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajesh-vinayagam/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@contact-rajeshvinayagam)
+![Profile Views](https://komarev.com/ghpvc/?username=rajeshvinayagam-lab&color=blue&style=flat)
 
-## Passionate about
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+---
 
-<br>
+### About
 
-## Currently working with
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+I specialize in designing and implementing enterprise-grade solutions across cloud platforms, with deep expertise in database technologies, infrastructure automation, and AI/ML systems.
 
-<br>
+### Tech Stack
 
-## Cloud & DevOps
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+**Languages & Frameworks**
 
-<br>
-<br>
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
-## GitHub Stats
+**Data & Infrastructure**
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rajeshvinayagam-lab&theme=radical)](https://git.io/streak-stats)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-![Rajesh's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rajeshvinayagam-lab&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+**Cloud Platforms**
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rajeshvinayagam-lab&theme=radical&layout=compact&langs_count=8)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 
-<br>
+---
 
-![](https://komarev.com/ghpvc/?username=rajeshvinayagam-lab&color=blueviolet)
+### GitHub Activity
 
-<!--
-**rajeshvinayagam-lab/rajeshvinayagam-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<p>
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rajeshvinayagam-lab&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rajeshvinayagam-lab&layout=compact&theme=default&hide_border=true&langs_count=8" />
+</p>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rajeshvinayagam-lab&theme=default&hide_border=true)](https://git.io/streak-stats)
