@@ -39,16 +39,15 @@
 
 ## GitHub Stats
 
-<a href="https://github.com/rajeshvinayagam-lab">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rajeshvinayagam-lab&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshvinayagam-lab&theme=radical&layout=compact&langs_count=8"/>
-</a>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rajeshvinayagam-lab&theme=radical)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajeshvinayagam-lab&theme=radical)](https://git.io/streak-stats)
+![Rajesh's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rajeshvinayagam-lab&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rajeshvinayagam-lab&theme=radical&layout=compact&langs_count=8)
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=rajeshvinayagam-lab)
+![](https://komarev.com/ghpvc/?username=rajeshvinayagam-lab&color=blueviolet)
 
 <!--
 **rajeshvinayagam-lab/rajeshvinayagam-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
