@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<img src="profile.jpeg" alt="Rajesh Vinayagam" width="200" style="border-radius: 50%;" />
-
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rajeshvinayagam-lab.rajeshvinayagam-lab)
 
 ## Connect with me
