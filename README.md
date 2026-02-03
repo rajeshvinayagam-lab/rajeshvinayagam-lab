@@ -48,6 +48,8 @@ I specialize in legacy application modernization, transforming mainframe and mon
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat&logo=github&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=flat&logo=anthropic&logoColor=white)
 
 **Frameworks & Tools**
 
