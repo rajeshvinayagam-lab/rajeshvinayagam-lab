@@ -39,11 +39,12 @@
 
 ## GitHub Stats
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=rajeshvinayagam-lab&show_icons=true&theme=radical)
+<a href="https://github.com/rajeshvinayagam-lab">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rajeshvinayagam-lab&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshvinayagam-lab&theme=radical&layout=compact&langs_count=8"/>
+</a>
 
-## Most used languages
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshvinayagam-lab&theme=radical&layout=compact)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajeshvinayagam-lab&theme=radical)](https://git.io/streak-stats)
 
 <br>
 
